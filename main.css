@@ -150,11 +150,20 @@
    font-display: swap;
 }
 #table1{ 
+    
     font-size: 1.2em;
     font-family: 'Instrument Serif';
    font-style: normal;
+   font-display: swap;
+   border:  thick #000000;
+}
+#tbody{
+   font-size: 1.2em;
+   font-family: 'Instrument Serif';
+   font-style: normal;
    font-weight: 400;
    font-display: swap;
+   text-align: center;
 }
 #nine-h{
     text-align: center; 
